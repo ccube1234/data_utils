@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-  name="DataUtility",
-  version="1.0",
+  name="data_util",
+  version="1.1",
   packages=find_packages(),
   install_requires=[
   ]
